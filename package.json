@@ -1,0 +1,25 @@
+{
+  "name": "json2jison",
+  "version": "0.0.1",
+  "description": "Converts json grammar definitions to jison's format",
+  "main": "json2jison.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": "https://github.com/zaach/json2jison",
+  "keywords": [
+    "jison",
+    "json",
+    "grammar",
+    "parser",
+    "generator"
+  ],
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zaach/json2jison.git"
+  },
+  "author": "Zach Carter",
+  "license": "MIT",
+  "bin": "json2jison.js"
+}
